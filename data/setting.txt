@@ -1,0 +1,8 @@
+plate_speed=3
+plate_size=30
+brick_colors=[(255, 102, 99), (254, 177, 68), (253, 253, 151), (158, 224, 158), (158, 193, 207), (204, 153, 201)]
+population=50
+parents=5
+children=45
+frame=90
+realframe=900
